@@ -1,5 +1,7 @@
 # IMPORTANT
 
+This fork changes as been merged back on `cordova-plugin-iosrtc` reopsitory and will be released on `cordova-plugin-iosrtc` version 5.0.0, for more information see PR https://github.com/cordova-rtc/cordova-plugin-iosrtc/pull/363
+
 Original Source and Fork intent
 --------------------
 
